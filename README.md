@@ -1,0 +1,1 @@
+Olá, sou estudante de Sistemas de Informação na Universidade Estácio com foco em desenvolvimento web, tanto no Front-End quanto no Back-End. Possuo conhecimento sólido em JavaScript, ReactJS, Firebase, CSS, HTML e Git, e atualmente estou me aprofundando no estudo em Back-end para expandir minhas habilidades em programação.
